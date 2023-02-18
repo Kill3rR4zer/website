@@ -10,8 +10,8 @@ module.exports = {
       },
       height: theme => ({
 
-        "just95": "95%",
-        "just5": "5%",
+        "just95": "92%",
+        "just5": "8%",
       }),
     },
   },

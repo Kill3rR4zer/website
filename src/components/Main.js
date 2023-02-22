@@ -14,7 +14,7 @@ const Emoji = props => (
 export default function Main() {
     return(
         <div className="p-2 flex  justify-center items-center h-just95 max-md:flex-col">
-            <div className=""><img src={sonic} alt="Sonic" className="rounded-full mr-5 p-2 h-64 max-md:h-28"  /></div>
+            <div className=""><img src={sonic} alt="Sonic" className="rounded-full mr-5 p-2 h-64 max-md:h-32"/></div>
             <div className="flex flex-col justify-center">
                 <p className="text-5xl max-sm:text-3xl max-md:pl-8">Hi, I'm Matthias <Emoji symbol="👋" /></p>
                 <p className="text-2xl mb-7 max-sm:text-lg max-md:pl-8">I'm a 17 year old developer from Germany</p>
